@@ -1,0 +1,11 @@
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\GoldSilverApp.Automation.Core.deps.json
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\GoldSilverApp.Automation.Core.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\GoldSilverApp.Automation.Core.pdb
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\GoldSilverApp.Automation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\GoldSilverApp.Automation.Core.AssemblyInfoInputs.cache
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\GoldSilverApp.Automation.Core.AssemblyInfo.cs
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\GoldSilverApp.Automation.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\GoldSilverApp.Automation.Core.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\refint\GoldSilverApp.Automation.Core.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\GoldSilverApp.Automation.Core.pdb
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\obj\Debug\net8.0\ref\GoldSilverApp.Automation.Core.dll

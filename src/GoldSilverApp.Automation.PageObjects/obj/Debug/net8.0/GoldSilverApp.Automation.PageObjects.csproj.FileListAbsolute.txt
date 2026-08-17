@@ -1,0 +1,15 @@
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\bin\Debug\net8.0\GoldSilverApp.Automation.PageObjects.deps.json
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\bin\Debug\net8.0\GoldSilverApp.Automation.PageObjects.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\bin\Debug\net8.0\GoldSilverApp.Automation.PageObjects.pdb
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\bin\Debug\net8.0\GoldSilverApp.Automation.Core.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\bin\Debug\net8.0\GoldSilverApp.Automation.Core.pdb
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.csproj.AssemblyReference.cache
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.AssemblyInfoInputs.cache
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.AssemblyInfo.cs
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilv.EA772554.Up2Date
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\refint\GoldSilverApp.Automation.PageObjects.dll
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\GoldSilverApp.Automation.PageObjects.pdb
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.PageObjects\obj\Debug\net8.0\ref\GoldSilverApp.Automation.PageObjects.dll
