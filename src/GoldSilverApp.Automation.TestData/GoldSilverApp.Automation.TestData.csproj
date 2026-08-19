@@ -3,6 +3,9 @@
   <ItemGroup>
     <ProjectReference Include="..\GoldSilverApp.Automation.Core\GoldSilverApp.Automation.Core.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="DataFiles\*.xlsx" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>

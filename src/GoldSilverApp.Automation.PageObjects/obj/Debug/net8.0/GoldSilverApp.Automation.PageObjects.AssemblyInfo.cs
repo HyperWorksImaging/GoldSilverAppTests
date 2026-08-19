@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoldSilverApp.Automation.PageObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58cdef86fedcf71106f218664cb3e298f4825ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoldSilverApp.Automation.PageObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoldSilverApp.Automation.PageObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

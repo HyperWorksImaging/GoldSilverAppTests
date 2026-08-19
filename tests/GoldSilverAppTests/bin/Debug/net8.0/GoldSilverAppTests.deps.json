@@ -414,6 +414,9 @@
         }
       },
       "GoldSilverApp.Automation.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.Playwright": "1.62.0"
+        },
         "runtime": {
           "GoldSilverApp.Automation.Core.dll": {}
         }

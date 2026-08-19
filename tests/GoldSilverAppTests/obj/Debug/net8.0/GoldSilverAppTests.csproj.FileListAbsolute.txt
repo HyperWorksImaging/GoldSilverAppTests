@@ -1,4 +1,10 @@
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\CoverletSourceRootsMapping_GoldSilverAppTests
+C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.csproj.AssemblyReference.cache
+C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.AssemblyInfoInputs.cache
+C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.AssemblyInfo.cs
+C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.csproj.CoreCompileInputs.cache
+C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.sourcelink.json
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\testhost.dll
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\testhost.exe
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
@@ -223,11 +229,6 @@ C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\GoldS
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\GoldSilverApp.Automation.TestData.pdb
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\GoldSilverApp.Automation.Core.pdb
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.csproj.AssemblyReference.cache
-C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.AssemblyInfoInputs.cache
-C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.AssemblyInfo.cs
-C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.csproj.CoreCompileInputs.cache
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilv.0840BB96.Up2Date
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\GoldSilverAppTests.dll
 C:\Users\User\GoldSilverAppTests\tests\GoldSilverAppTests\obj\Debug\net8.0\refint\GoldSilverAppTests.dll

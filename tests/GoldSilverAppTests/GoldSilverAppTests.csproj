@@ -21,6 +21,9 @@
   <ItemGroup>
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
+  <ItemGroup>
+   <None Include="..\..\src\GoldSilverApp.Automation.TestData\DataFiles\*.xlsx" CopyToOutputDirectory="PreserveNewest" LinkBase="TestFiles" />
+</ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\GoldSilverApp.Automation.PageObjects\GoldSilverApp.Automation.PageObjects.csproj" />
