@@ -10,7 +10,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Bogus" Version="35.6.5" />
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="DotNetEnv" Version="3.2.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
     <PackageReference Include="Microsoft.Playwright" Version="1.62.0" />
     <PackageReference Include="Microsoft.Playwright.MSTest" Version="1.62.0" />
@@ -23,6 +25,9 @@
   </ItemGroup>
   <ItemGroup>
    <None Include="..\..\src\GoldSilverApp.Automation.TestData\DataFiles\*.xlsx" CopyToOutputDirectory="PreserveNewest" LinkBase="TestFiles" />
+</ItemGroup>
+<ItemGroup>
+  <None Include="..\..\src\GoldSilverApp.Automation.Core\Config\appsettings.*.json" CopyToOutputDirectory="PreserveNewest" />
 </ItemGroup>
 
   <ItemGroup>

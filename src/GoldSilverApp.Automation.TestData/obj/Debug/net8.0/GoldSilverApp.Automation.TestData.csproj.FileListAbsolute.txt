@@ -1,3 +1,5 @@
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\Config\appsettings.prod.json
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\Config\appsettings.qa.json
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\.playwright\node\LICENSE
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\.playwright\package\bin\install_media_pack.ps1
@@ -112,6 +114,7 @@ C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\.playwright\package\types\types.d.ts
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\playwright.ps1
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\DataFiles\DDTData.xlsx
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\GoldSilverApp.Automation.TestData.deps.json
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\GoldSilverApp.Automation.TestData.dll
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.TestData\bin\Debug\net8.0\GoldSilverApp.Automation.TestData.pdb

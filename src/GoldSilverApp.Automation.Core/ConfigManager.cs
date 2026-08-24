@@ -18,6 +18,14 @@ public static class ConfigManager
 
     public static string BaseUrl => GetRequired("BaseUrl");
 
+    public static string DefaultTestUserEmail =>
+    Environment.GetEnvironmentVariable("QA_DEFAULT_USER_EMAIL")
+        ?? throw new InvalidOperationException("QA_DEFAULT_USER_EMAIL environment variable not set.");
+
+    public static string DefaultTestUserPassword => 
+    Environment.GetEnvironmentVariable("QA_DEFAULT_USER_PASSWORD")
+        ?? throw new InvalidOperationException("QA_DEFAULT_USER_PASSWORD environment variable not set.");
+
     //public static string ApiBaseUrl => GetRequired("ApiBaseUrl");
 
     // public static string PlaidSandboxKey =>

@@ -1,10 +1,10 @@
 using Microsoft.Playwright;
+using System.Reflection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using GoldSilverApp.Automation.Core;
 
 namespace GoldSilverApp.Automation.Tests.TestHooks
 {
-    [TestClass]
     public class BaseTestFixture
     {
         protected IBrowserContext Context { get; private set; } = null!;
@@ -37,7 +37,11 @@ namespace GoldSilverApp.Automation.Tests.TestHooks
 
             if (failed)
             {
-                var tracePath = $"reports/traces/{TestContext.TestName}.zip";
+                var testMethod = GetType().GetMethod(TestContext.TestName!);
+                var trace = testMethod?.GetCustomAttribute<RtmTraceAttribute>();
+                var rtmId = trace?.TcId ?? TestContext.TestName;
+
+                var tracePath = $"reports/traces/{rtmId}.zip";
                 await Context.Tracing.StopAsync(new TracingStopOptions { Path = tracePath });
             }
             else

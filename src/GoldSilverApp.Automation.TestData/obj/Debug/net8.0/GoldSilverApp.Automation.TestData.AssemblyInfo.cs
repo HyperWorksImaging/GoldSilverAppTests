@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoldSilverApp.Automation.TestData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58cdef86fedcf71106f218664cb3e298f4825ccd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5119786600f0726cb0eefafa715c53c2e51f301e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoldSilverApp.Automation.TestData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoldSilverApp.Automation.TestData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -112,6 +112,8 @@ C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\.playwright\package\types\types.d.ts
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\playwright.ps1
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\Config\appsettings.prod.json
+C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\Config\appsettings.qa.json
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\GoldSilverApp.Automation.Core.deps.json
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\GoldSilverApp.Automation.Core.dll
 C:\Users\User\GoldSilverAppTests\src\GoldSilverApp.Automation.Core\bin\Debug\net8.0\GoldSilverApp.Automation.Core.pdb

@@ -6,6 +6,10 @@ public class LoginPage
 {
     private readonly IPage _page;
 
+    private ILocator EmailInput => _page.GetByLabel("Email");
+    private ILocator PasswordInput => _page.GetByLabel("Password");
+    private ILocator LoginButton => _page.GetByRole(AriaRole.Button, new() { Name = "Log In" });
+
     public LoginPage(IPage page) => _page = page;
 
     public async Task<LoginPage> GotoAsync(string baseUrl)
@@ -16,18 +20,19 @@ public class LoginPage
 
     public async Task<LoginPage> EnterEmailAsync(string email)
     {
-        await _page.GetByLabel("Email").FillAsync(email);
+        await EmailInput.FillAsync(email);
         return this;
     }
 
     public async Task<LoginPage> EnterPasswordAsync(string password)
     {
-        await _page.GetByLabel("Password").FillAsync(password);
+        await PasswordInput.FillAsync(password);
         return this;
     }
+
     // public async Task<DashboardPage> SubmitAsync()
     // {
-    //     await _page.GetByRole(AriaRole.Button, new() { Name = "Log In" }).ClickAsync();
+    //     await LoginButton.ClickAsync();
     //     await _page.WaitForURLAsync(url => url.Contains("/dashboard"));
     //     return new DashboardPage(_page);
     // }
